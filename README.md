@@ -35,6 +35,6 @@ To install python, mage ai and bigquery using the compute engine, you will need 
 
 https://lookerstudio.google.com/s/jg0W9Wh0DkM
 
-#### I would like to thank Darshil Parmar for the amazing tutorial of this project. You can find the video tutorial of this project on his channel. I have added the link to his youtube channel below.
+#### I would like to thank [Darshil Parmar](https://github.com/darshilparmar) for the amazing tutorial of this project. You can find the video tutorial of this project on his channel. I have added the link to his youtube channel below.
 
 Video Link - https://youtu.be/WpQECq5Hx9g
